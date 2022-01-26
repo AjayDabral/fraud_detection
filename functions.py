@@ -18,3 +18,9 @@ def subtraction(a,b):
     c=a-b
     return(c)
 
+def modulus(a,b):
+    c=a%b
+    return(c)
+
+
+print("this is the final version")
