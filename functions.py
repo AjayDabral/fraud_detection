@@ -13,3 +13,8 @@ def multiplication(a,b):
 def division(a,b):
     e=a/b
     return(e)
+
+def subtraction(a,b):
+    c=a-b
+    return(c)
+
